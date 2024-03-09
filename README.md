@@ -19,7 +19,7 @@ O objetivo é apresentar um sistema gestão de dados de um centro universitário
 - Aluno - Permitirá realizar matricula, agendar provas e visualizar a agenda;
 - Professor - Permitirá atribuir nota e visualizar a escala de trabalho;
 - Funcionário - Permitirá visualizar a escala de trabalho;
-- Fornecedor - Permitirá disponibillizar o catalogo de produtos e realizar orçamentos;
+- Fornecedor - Permitirá disponibillizar o catalogo de produtos e realizar orçamentos.
 
 ## Link das telas no Figma
 
@@ -36,11 +36,11 @@ O objetivo é apresentar um sistema gestão de dados de um centro universitário
 
 ## Início
 
-A tela de inicio exibe as informações sobre o centro universitário como nome, CNPJ, endereço e da acesso as telas "sobre", "fale conosco" e "Acesso" (login);
+A tela de inicio exibe as informações sobre o centro universitário como nome, CNPJ, endereço e da acesso as telas "sobre", "fale conosco" e "Acesso" (login).
 
 ## Sobre
 
-A tela "Sobre" exibe as informações sobre a plataforma SISGED e sobre o Centro Universitário CALC
+A tela "Sobre" exibe as informações sobre a plataforma SISGED e sobre o Centro Universitário CALC.
 
 ## Fale conosco
 
