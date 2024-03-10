@@ -46,10 +46,17 @@ O objetivo é apresentar um sistema gestão de dados de um centro universitário
 ## Link do protótipo das telas no Figma
 
 
-## Lista de Requisitos funcionais
+## Diagrama de classes (UML)
 
+<div align="Center">
+<img src="https://drive.google.com/file/d/1iAMcQoHBhQmhVhYnvH3rfNUJtVeXMhJZ/view" width="350px" />
+</div>
 
-## MER
+## Diagrama de casos de uso
+
+<div align="Center">
+<img src="https://drive.google.com/file/d/1fgD2-i9K8txW6V8OfbE2wh9JrmCe20EE/view" width="350px" />
+</div>
 
 ## Telas no Figma
 
