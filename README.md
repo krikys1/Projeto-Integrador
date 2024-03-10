@@ -64,13 +64,25 @@ A tela de inicio exibe as informações sobre o centro universitário como nome,
 
 A tela "Sobre" exibe as informações sobre a plataforma SISGED e sobre o Centro Universitário CALC.
 
+<div align="Center">
+<img src="https://github.com/krikys1/Projeto-Integrador/assets/162705081/502d1765-b1b3-46bc-a300-13071d718d89" width="350px" />
+</div>
+
 ## Fale conosco
 
 Essa tela permite que o usuário entre em contato com o Centro Universitário CALC e após inserir o nome e e-mail de contato, faça uma descrição resumida e detalhada de sua solicitação.
 
+<div align="Center">
+<img src="https://github.com/krikys1/Projeto-Integrador/assets/162705081/e5e99169-9eb3-46df-abd5-4028a0f5b173" width="350px" />
+</div>
+
 ## Login 
 
-Etapa responsável por validar o login e senha do usuário. Esta tela autentica o login e a senha inseridos pelo usuário, dando-lhe acesso à tela de cadastro e a tela corrpondente a seu perfil (forncedor).
+Etapa responsável por validar o login e senha do usuário. Esta tela autentica o login e a senha inseridos pelo usuário, dando-lhe acesso à tela de cadastro e a tela corrpondente a seu perfil.
+
+<div align="Center">
+<img src="https://github.com/krikys1/Projeto-Integrador/assets/162705081/2b9707b2-3e5b-4bdb-a0ca-91739a90b663" width="350px" />
+</div>
 
 ## Gerenciamento de dados
 
