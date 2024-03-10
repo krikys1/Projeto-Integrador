@@ -84,24 +84,109 @@ Etapa responsável por validar o login e senha do usuário. Esta tela autentica 
 <img src="https://github.com/krikys1/Projeto-Integrador/assets/162705081/2b9707b2-3e5b-4bdb-a0ca-91739a90b663" width="350px" />
 </div>
 
-## Gerenciamento de dados
+## Cadastro
 
-## Gerenciamento de relatórios
+Essa tela permite um usuario ainda não cadastrado realizar o seu cadastro.
+
+<div align="Center">
+<img src="https://github.com/krikys1/Projeto-Integrador/assets/162705081/5549622d-0619-41aa-bfb4-c5d442904918" width="350px" />
+</div>
+
+## Redefinição de senha
+
+Essa tela permite ao usuario, caso esqueça sua senha, solicitar a redefinição de sua senha.
+
+<div align="Center">
+<img src="https://github.com/krikys1/Projeto-Integrador/assets/162705081/b97ffb59-a0a4-4e39-b6f4-f267f997c65b" width="350px" />
+</div>
 
 ## Aluno
-## Atualizar o perfil do aluno - 
-## Matricula -
-## Agendamento de prova -
-## Agenda do aluno - 
+
+Na tela de acesso do aluno permitirá que o usuário tenha acesso a possibilidade de atualizar o seu perfil, verificar o seu curso matriculado, consultar informações do curso, agendar provas e acessar sua agenda.
+
+<div align="Center">
+<img src="" width="350px" />
+</div>
+
+## Atualizar o perfil do aluno
+
+Na tela de atualização do perfil do aluno será permitido ao usuario atualizar seu e-mail, senha e alterar seus dados cadastrais.
+
+<div align="Center">
+<img src="" width="350px" />
+</div>
+
+<div align="Center">
+<img src="" width="350px" />
+</div>
+
+## Matricula e consulta de informações
+
+Essa tela permite que o usuario verifique o curso matriculado, informações sobre o curso e emissão de declaração.
+
+<div align="Center">
+<img src="" width="350px" />
+</div>
+
+<div align="Center">
+<img src="" width="350px" />
+</div>
+
+## Agendamento de prova
+
+Essa tela permite que o usuario realize o agendamento de suas provas.
+
+<div align="Center">
+<img src="" width="350px" />
+</div>
+<div align="Center">
+<img src="" width="350px" />
+</div>
+
+## Agenda do aluno
+
+Essa tela permite que o usuario consulte a programação do curso como o periodo de entrega de trabalhos e provas.
+<div align="Center">
+<img src="" width="350px" />
+</div>
+<div align="Center">
+<img src="" width="350px" />
+</div>
 
 ## Professor
+
+Na tela de acesso do professor permitirá que o usuário tenha acesso a possibilidade de atualizar o seu perfil, atribuir nota ao aluno e visualizar a sua escala de trabalho.
+
+
 ## Atualizar perfil do professor - 
+
+Na tela de atualização do perfil do professor será permitido ao usuario atualizar seu e-mail, senha e alterar seus dados cadastrais.
+
+
 ## Atribuir nota -
+
+Essa tela permite que o professor lance as notas do seu curso aos alunos.
+
+
 ## Visualizar escala do professor - 
 
+Essa tela permite que o professor visualize sua escala de trabalho com a sua grade de aulas e demais compromissos com a universidade.
+
+
 ## Funcionário
-## Atualizar o perfil do funcionário - 
+
+Essa tela permite ao colaborador ter acesso a atualizar seu perfil cadastrado e sua escala de trabalho.
+
+
+## Atualizar o perfil do funcionário
+
+Na tela de atualização do perfil do colaborador será permitido ao usuario atualizar seu e-mail, senha e alterar seus dados cadastrais.
+
+
 ## Visualizar a escala do funcionário -
+
+Essa tela permite que o colaborador visualize sua escala de trabalho na universidade.
+
 
 ## Fornecedor
 ## Atualizar o perfil do fornecedor - 
@@ -115,6 +200,10 @@ Etapa responsável por validar o login e senha do usuário. Esta tela autentica 
 ## Consultar informações
 ## Agendamento de prova -
 ## Agenda do administrador -
+
+## Gerenciamento de dados
+
+## Gerenciamento de relatórios
 
 
 
