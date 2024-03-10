@@ -40,15 +40,20 @@ O objetivo é apresentar um sistema gestão de dados de um centro universitário
 - Agenda do administrador - Exibe todos os compromissos do administrador com o centro universitário.
 
 ## Link das telas no Figma
-
+<https://www.figma.com/file/sxQzhOFv0F7xwfJZP2vymI/SISGED---Centro-Universit%C3%A1rio-CALC?type=design&node-id=0-1&mode=design&t=D07xporwJtZ26MPn-0>
 
 ## Link do protótipo das telas no Figma
+<https://www.figma.com/proto/sxQzhOFv0F7xwfJZP2vymI/SISGED---Centro-Universit%C3%A1rio-CALC?type=design&node-id=13-99&t=D07xporwJtZ26MPn-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=13%3A99> 
 
+## Diagrama de Casos de Uso
+<div align="Center">
+<img src="https://github.com/krikys1/Projeto-Integrador/assets/71949574/eb4d26ee-0643-4bf1-b868-c5716490abf4" width="350px" />
+</div>
 
-## Lista de Requisitos funcionais
-
-
-## MER
+## Diagrama de Classes 
+<div align="Center">
+<img src="https://github.com/krikys1/Projeto-Integrador/assets/71949574/941db22f-ef43-48e7-a549-adf470954a74" width="350px" />
+</div>
 
 ## Telas no Figma
 
@@ -157,16 +162,16 @@ Essa tela permite que o usuario consulte a programação do curso como o periodo
 Na tela de acesso do professor permitirá que o usuário tenha acesso a possibilidade de atualizar o seu perfil, atribuir nota ao aluno e visualizar a sua escala de trabalho.
 
 
-## Atualizar perfil do professor - 
+## Atualizar perfil do professor 
 
 Na tela de atualização do perfil do professor será permitido ao usuario atualizar seu e-mail, senha e alterar seus dados cadastrais.
 
 
-## Atribuir nota -
+## Atribuir nota 
 
 Essa tela permite a inserção das notas de produção textual, quiz, prova e média final;
 
-## Visualizar escala do professor - 
+## Visualizar escala do professor 
 
 Essa tela permite que o professor visualize sua escala de trabalho com a sua grade de aulas e demais compromissos com a universidade.
 
@@ -181,7 +186,7 @@ Essa tela permite ao colaborador ter acesso a atualizar seu perfil cadastrado e 
 Na tela de atualização do perfil do colaborador será permitido ao usuario atualizar seu e-mail, senha e alterar seus dados cadastrais.
 
 
-## Visualizar a escala do funcionário -
+## Visualizar a escala do funcionário 
 
 Essa tela permite que o colaborador visualize sua escala de trabalho na universidade.
 
@@ -191,22 +196,22 @@ Essa tela permite que o colaborador visualize sua escala de trabalho na universi
 Essa tela permite ao colaborador ter acesso a atualizar seu perfil cadastrado, dsponibillizar o catalogo de produtos, realizar orçamentos e consultar a agenda.
 
 
-## Atualizar o perfil do fornecedor - 
+## Atualizar o perfil do fornecedor  
 
 Na tela de atualização do perfil do fornecedor será permitido ao usuário atualizar seu e-mail, senha e alterar seus dados cadastrais e empresariais;
 
 
-## Disponibilizar o catalogo -
+## Disponibilizar o catalogo 
 
 Exibe uma tela com a opção de inserção do catálogo por URL ou via PDF;
 
 
-## Disponibilizar orçamento -
+## Disponibilizar orçamento 
 
 Exibe uma tela para inserção do número do orçamento, a data e o documento referente por PDF;
 
 
-## Agenda do fornecedor -
+## Agenda do fornecedor 
 
 Exibe todos os compromissos do fornecedor em relação ao centro universitário;
 
@@ -216,32 +221,32 @@ Exibe todos os compromissos do fornecedor em relação ao centro universitário;
 Na tela de acesso do administrador, permitirá atualizar perfil, realizar matricula, consultar informações, agendar provas e visualizar a agenda.
 
 
-## Atualizar o perfil do administrador - 
+## Atualizar o perfil do administrador 
 
 Na tela de atualização do perfil do administrador será permitido ao usuário atualizar seu e-mail, senha e alterar seus dados cadastrais;
 
 
-## Matricula - 
+## Matricula 
 
 Número de controle pessoal.
 
 
-## Consultar informações -
+## Consultar informações
 
 Exibe a tela onde é possível verificar alunos matriculados, parte financeira e seus respectivos relatórios;
 
 
-## Agenda do administrador -
+## Agenda do administrador
 
 Exibe todos os compromissos do administrador com o centro universitário.
 
 
-## Gerenciamento de dados - 
+## Gerenciamento de dados 
 
 Exibe a tela onde é possível verificar relatório dos alunos matriculados.
 
 
-## Gerenciamento de relatórios - 
+## Gerenciamento de relatórios 
 
 Exibe a tela onde é possível verificar relatório da parte financeira.
 
