@@ -17,28 +17,27 @@ O objetivo é apresentar um sistema gestão de dados de um centro universitário
 - Gerenciamento de dados - Será possível incluir cadastros de novos alunos, professires funcionários e fornecedores;
 - Gerenciamento de relatórios - Permitirá a emissão de relatórios de alunos, professores, funcionários e fornecedores;
 - Aluno - Permitirá realizar matricula, agendar provas e visualizar a agenda;
-- Atualizar o perfil do aluno - 
-- Matricula -
-- Agendamento de prova -
-- Agenda do aluno - 
-- Professor - Permitirá atribuir nota e visualizar a escala de trabalho;
-- Atualizar perfil do professor - 
-- Atribuir nota -
-- Visualizar escala do professor - 
-- Funcionário - Permitirá visualizar a escala de trabalho;
-- Atualizar o perfil do funcionário - 
-- Visualizar a escala do funcionário - 
-- Fornecedor - Permitirá disponibillizar o catalogo de produtos e realizar orçamentos.
-- Atualizar o perfil do fornecedor - 
-- Disponibilizar o catalogo -
-- Disponibilizar orçamento -
-- Agenda do fornecedor -
-- Administrador - Permitirá atualizar perfil, realizar matricula, consultar informações, agendar provas e visualizar a agenda;
-- Atualizar o perfil do administrador - 
-- Matricula -
-- Consultar informações
-- Agendamento de prova -
-- Agenda do administrador -
+- Atualizar o perfil do aluno - Na tela de atualização do perfil do aluno será permitido ao usuário atualizar seu e-mail, senha e alterar seus dados cadastrais;
+- Matricula - Número de controle pessoal;
+- Agendamento de prova - Permitirá agendar o dia para realização de provas;
+- Agenda do aluno - Exibe todos os compromissos do aluno em relação ao centro universitário;
+- Professor - Na tela de acesso do professor permitirá que o usuário tenha acesso a possibilidade de atualizar o seu perfil, atribuir nota ao aluno e visualizar a sua escala de trabalho;
+- Atualizar perfil do professor - Na tela de atualização do perfil do professor será permitido ao usuario atualizar seu e-mail, senha e alterar seus dados cadastrais;
+- Atribuir nota - Na tela de atribução de notas será possível a inserção das notas de produção textual, quiz, prova e média final;
+- Visualizar escala do professor - Essa tela permite que o professor visualize sua escala de trabalho com a sua grade de aulas e demais compromissos com a universiade;
+- Funcionário - Essa tela permite ao colaborador ter acesso a atualizar seu perfil cadastrado e sua escala de trabalho;
+- Atualizar o perfil do funcionário - Na tela de atualização do perfil do colaborador será permitido ao usuario atualizar seu e-mail, senha e alterar seus dados cadastrais;
+- Visualizar a escala do funcionário - Essa tela permite que o colaborador visualize sua escala de trabalho na universidade.
+- Fornecedor - Essa tela permite ao colaborador ter acesso a atualizar seu perfil cadastrado, dsponibillizar o catalogo de produtos, realizar orçamentos e consultar a agenda;
+- Atualizar o perfil do fornecedor - Na tela de atualização do perfil do fornecedor será permitido ao usuário atualizar seu e-mail, senha e alterar seus dados cadastrais e empresariais;
+- Disponibilizar o catalogo - Exibe uma tela com a opção de inserção do catálogo por URL ou via PDF;
+- Disponibilizar orçamento - Exibe uma tela para inserção do número do orçamento, a data e o documento referente por PDF;
+- Agenda do fornecedor - Exibe todos os compromissos do fornecedor em relação ao centro universitário;
+- Administrador - Na tela de acesso do administrador, permitirá atualizar perfil, realizar matricula, consultar informações, agendar provas e visualizar a agenda;
+- Atualizar o perfil do administrador - Na tela de atualização do perfil do administrador será permitido ao usuário atualizar seu e-mail, senha e alterar seus dados cadastrais;
+- Matricula - Número de controle pessoal;
+- Consultar informações - Exibe a tela onde é possível verificar alunos matriculados, parte financeira e seus respectivos relatórios;
+- Agenda do administrador - Exibe todos os compromissos do administrador com o centro universitário.
 
 ## Link das telas no Figma
 
@@ -46,17 +45,10 @@ O objetivo é apresentar um sistema gestão de dados de um centro universitário
 ## Link do protótipo das telas no Figma
 
 
-## Diagrama de classes (UML)
+## Lista de Requisitos funcionais
 
-<div align="Center">
-<img src="https://drive.google.com/file/d/1iAMcQoHBhQmhVhYnvH3rfNUJtVeXMhJZ/view" width="350px" />
-</div>
 
-## Diagrama de casos de uso
-
-<div align="Center">
-<img src="https://drive.google.com/file/d/1fgD2-i9K8txW6V8OfbE2wh9JrmCe20EE/view" width="350px" />
-</div>
+## MER
 
 ## Telas no Figma
 
@@ -172,8 +164,7 @@ Na tela de atualização do perfil do professor será permitido ao usuario atual
 
 ## Atribuir nota -
 
-Essa tela permite que o professor lance as notas do seu curso aos alunos.
-
+Essa tela permite a inserção das notas de produção textual, quiz, prova e média final;
 
 ## Visualizar escala do professor - 
 
@@ -196,21 +187,65 @@ Essa tela permite que o colaborador visualize sua escala de trabalho na universi
 
 
 ## Fornecedor
+
+Essa tela permite ao colaborador ter acesso a atualizar seu perfil cadastrado, dsponibillizar o catalogo de produtos, realizar orçamentos e consultar a agenda.
+
+
 ## Atualizar o perfil do fornecedor - 
+
+Na tela de atualização do perfil do fornecedor será permitido ao usuário atualizar seu e-mail, senha e alterar seus dados cadastrais e empresariais;
+
+
 ## Disponibilizar o catalogo -
+
+Exibe uma tela com a opção de inserção do catálogo por URL ou via PDF;
+
+
 ## Disponibilizar orçamento -
+
+Exibe uma tela para inserção do número do orçamento, a data e o documento referente por PDF;
+
+
 ## Agenda do fornecedor -
 
+Exibe todos os compromissos do fornecedor em relação ao centro universitário;
+
+
 ## Administrador
+
+Na tela de acesso do administrador, permitirá atualizar perfil, realizar matricula, consultar informações, agendar provas e visualizar a agenda.
+
+
 ## Atualizar o perfil do administrador - 
-## Matricula -
-## Consultar informações
-## Agendamento de prova -
+
+Na tela de atualização do perfil do administrador será permitido ao usuário atualizar seu e-mail, senha e alterar seus dados cadastrais;
+
+
+## Matricula - 
+
+Número de controle pessoal.
+
+
+## Consultar informações -
+
+Exibe a tela onde é possível verificar alunos matriculados, parte financeira e seus respectivos relatórios;
+
+
 ## Agenda do administrador -
 
-## Gerenciamento de dados
+Exibe todos os compromissos do administrador com o centro universitário.
 
-## Gerenciamento de relatórios
+
+## Gerenciamento de dados - 
+
+Exibe a tela onde é possível verificar relatório dos alunos matriculados.
+
+
+## Gerenciamento de relatórios - 
+
+Exibe a tela onde é possível verificar relatório da parte financeira.
+
+
 
 
 
