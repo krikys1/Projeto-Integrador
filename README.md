@@ -17,9 +17,28 @@ O objetivo é apresentar um sistema gestão de dados de um centro universitário
 - Gerenciamento de dados - Será possível incluir cadastros de novos alunos, professires funcionários e fornecedores;
 - Gerenciamento de relatórios - Permitirá a emissão de relatórios de alunos, professores, funcionários e fornecedores;
 - Aluno - Permitirá realizar matricula, agendar provas e visualizar a agenda;
+- Atualizar o perfil do aluno - 
+- Matricula -
+- Agendamento de prova -
+- Agenda do aluno - 
 - Professor - Permitirá atribuir nota e visualizar a escala de trabalho;
+- Atualizar perfil do professor - 
+- Atribuir nota -
+- Visualizar escala do professor - 
 - Funcionário - Permitirá visualizar a escala de trabalho;
+- Atualizar o perfil do funcionário - 
+- Visualizar a escala do funcionário - 
 - Fornecedor - Permitirá disponibillizar o catalogo de produtos e realizar orçamentos.
+- Atualizar o perfil do fornecedor - 
+- Disponibilizar o catalogo -
+- Disponibilizar orçamento -
+- Agenda do fornecedor -
+- Administrador - Permitirá atualizar perfil, realizar matricula, consultar informações, agendar provas e visualizar a agenda;
+- Atualizar o perfil do administrador - 
+- Matricula -
+- Consultar informações
+- Agendamento de prova -
+- Agenda do administrador -
 
 ## Link das telas no Figma
 
@@ -55,12 +74,34 @@ Etapa responsável por validar o login e senha do usuário. Esta tela autentica 
 ## Gerenciamento de relatórios
 
 ## Aluno
+## Atualizar o perfil do aluno - 
+## Matricula -
+## Agendamento de prova -
+## Agenda do aluno - 
 
 ## Professor
+## Atualizar perfil do professor - 
+## Atribuir nota -
+## Visualizar escala do professor - 
 
 ## Funcionário
+## Atualizar o perfil do funcionário - 
+## Visualizar a escala do funcionário -
 
 ## Fornecedor
+## Atualizar o perfil do fornecedor - 
+## Disponibilizar o catalogo -
+## Disponibilizar orçamento -
+## Agenda do fornecedor -
+
+## Administrador
+## Atualizar o perfil do administrador - 
+## Matricula -
+## Consultar informações
+## Agendamento de prova -
+## Agenda do administrador -
+
+
 
 
 
