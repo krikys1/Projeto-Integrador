@@ -56,6 +56,9 @@ O objetivo é apresentar um sistema gestão de dados de um centro universitário
 ## Início
 
 A tela de inicio exibe as informações sobre o centro universitário como nome, CNPJ, endereço e da acesso as telas "sobre", "fale conosco" e "Acesso" (login).
+<div align="Center">
+<img src="https://github.com/krikys1/Projeto-Integrador/assets/162705081/c937cc89-ccf4-42f5-9fcb-76a0d6965115" width="350px" />
+</div>
 
 ## Sobre
 
