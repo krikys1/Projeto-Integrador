@@ -109,7 +109,7 @@ Essa tela permite ao usuario, caso esqueça sua senha, solicitar a redefinição
 Na tela de acesso do aluno permitirá que o usuário tenha acesso a possibilidade de atualizar o seu perfil, verificar o seu curso matriculado, consultar informações do curso, agendar provas e acessar sua agenda.
 
 <div align="Center">
-<img src="" width="350px" />
+<img src="https://github.com/krikys1/Projeto-Integrador/assets/162705081/15285bbb-068e-423c-9fe9-ba6eb340ed07" width="350px" />
 </div>
 
 ## Atualizar o perfil do aluno
@@ -117,11 +117,11 @@ Na tela de acesso do aluno permitirá que o usuário tenha acesso a possibilidad
 Na tela de atualização do perfil do aluno será permitido ao usuario atualizar seu e-mail, senha e alterar seus dados cadastrais.
 
 <div align="Center">
-<img src="" width="350px" />
+<img src="https://github.com/krikys1/Projeto-Integrador/assets/162705081/331bb3bb-2af1-43c6-bbed-797f254d40ba" width="350px" />
 </div>
 
 <div align="Center">
-<img src="" width="350px" />
+<img src="https://github.com/krikys1/Projeto-Integrador/assets/162705081/4fd01411-0513-4d1f-a910-c09d2fe3422b" width="350px" />
 </div>
 
 ## Matricula e consulta de informações
@@ -129,11 +129,11 @@ Na tela de atualização do perfil do aluno será permitido ao usuario atualizar
 Essa tela permite que o usuario verifique o curso matriculado, informações sobre o curso e emissão de declaração.
 
 <div align="Center">
-<img src="" width="350px" />
+<img src="https://github.com/krikys1/Projeto-Integrador/assets/162705081/77197568-a30c-4b93-af8c-1cc4b5eedd93" width="350px" />
 </div>
 
 <div align="Center">
-<img src="" width="350px" />
+<img src="https://github.com/krikys1/Projeto-Integrador/assets/162705081/8f1febeb-f523-4f5d-b61d-69079d36bd40" width="350px" />
 </div>
 
 ## Agendamento de prova
@@ -141,116 +141,191 @@ Essa tela permite que o usuario verifique o curso matriculado, informações sob
 Essa tela permite que o usuario realize o agendamento de suas provas.
 
 <div align="Center">
-<img src="" width="350px" />
-</div>
-<div align="Center">
-<img src="" width="350px" />
+<img src="https://github.com/krikys1/Projeto-Integrador/assets/162705081/14c9e77a-f145-43b7-9d77-e2a85ed661ce" width="350px" />
 </div>
 
 ## Agenda do aluno
 
 Essa tela permite que o usuario consulte a programação do curso como o periodo de entrega de trabalhos e provas.
 <div align="Center">
+<img src="https://github.com/krikys1/Projeto-Integrador/assets/162705081/9489a1ae-cf0c-4f99-b59a-79e1e527d5af" width="350px" />
+</div>
+
+## Professor
+
+Na tela de acesso do professor permitirá que o usuário tenha acesso a possibilidade de atualizar o seu perfil, atribuir nota ao aluno e visualizar a sua escala de trabalho.
+<div align="Center">
+<img src="https://github.com/krikys1/Projeto-Integrador/assets/162705081/1ef5dd9f-e38d-4a93-9fd5-3b04c75c30d0" width="350px" />
+</div>
+
+## Atualizar perfil do professor 
+
+Na tela de atualização do perfil do professor será permitido ao usuario atualizar seu e-mail, senha e alterar seus dados cadastrais.
+<div align="Center">
+<img src="https://github.com/krikys1/Projeto-Integrador/assets/162705081/5636af60-39b7-46c0-826c-768a852be1ae" width="350px" />
+</div>
+<div align="Center">
+<img src="https://github.com/krikys1/Projeto-Integrador/assets/162705081/4fd01411-0513-4d1f-a910-c09d2fe3422b" width="350px" />
+</div>
+
+## Atribuir nota 
+
+Essa tela permite a inserção das notas de produção textual, quiz, prova e média final;
+<div align="Center">
+<img src="(https://github.com/krikys1/Projeto-Integrador/assets/162705081/70daa0c0-6a6d-4c23-b4dd-61b8959e8279" width="350px" />
+</div>
+<div align="Center">
+<img src="https://github.com/krikys1/Projeto-Integrador/assets/162705081/edef5cde-f404-4f6f-acfd-6a0b0c052a6b" width="350px" />
+</div>
+
+## Visualizar escala do professor 
+
+Essa tela permite que o professor visualize sua escala de trabalho com a sua grade de aulas e demais compromissos com a universidade.
+<div align="Center">
+<img src="https://github.com/krikys1/Projeto-Integrador/assets/162705081/cdf7fa40-8976-4005-b79d-40d6fdc0dc7d" width="350px" />
+</div>
+
+
+## Funcionário
+
+Essa tela permite ao colaborador ter acesso a atualizar seu perfil cadastrado e sua escala de trabalho.
+<div align="Center">
+<img src="https://github.com/krikys1/Projeto-Integrador/assets/162705081/8a2833ac-d116-4425-802f-b6a36e2605c1" width="350px" />
+</div>
+
+## Atualizar o perfil do funcionário
+
+Na tela de atualização do perfil do colaborador será permitido ao usuario atualizar seu e-mail, senha e alterar seus dados cadastrais.
+<div align="Center">
+<img src="https://github.com/krikys1/Projeto-Integrador/assets/162705081/e916fc8e-4fcb-4435-a4cf-63c476f284ac" width="350px" />
+</div>
+<div align="Center">
+<img src="https://github.com/krikys1/Projeto-Integrador/assets/162705081/4fd01411-0513-4d1f-a910-c09d2fe3422b" width="350px" />
+</div>
+
+## Visualizar a escala do funcionário 
+
+Essa tela permite que o colaborador visualize sua escala de trabalho na universidade.
+<div align="Center">
+<img src="https://github.com/krikys1/Projeto-Integrador/assets/162705081/a8aa597e-4d33-4566-9bcf-de1aef74400d" width="350px" />
+</div>
+
+## Fornecedor
+
+Essa tela permite ao colaborador ter acesso a atualizar seu perfil cadastrado, dsponibillizar o catalogo de produtos, realizar orçamentos e consultar a agenda.
+<div align="Center">
+<img src="https://github.com/krikys1/Projeto-Integrador/assets/162705081/6adeaf5a-6535-4cf6-83a6-71a5946762f8" width="350px" />
+</div>
+
+## Atualizar o perfil do fornecedor  
+
+Na tela de atualização do perfil do fornecedor será permitido ao usuário atualizar seu e-mail, senha e alterar seus dados cadastrais e empresariais;
+<div align="Center">
+<img src="https://github.com/krikys1/Projeto-Integrador/assets/162705081/1676efa2-6a11-41a4-ba0d-e907f39cac12" width="350px" />
+</div>
+<div align="Center">
+<img src="https://github.com/krikys1/Projeto-Integrador/assets/162705081/4fd01411-0513-4d1f-a910-c09d2fe3422b" width="350px" />
+</div>
+
+## Disponibilizar o catalogo 
+
+Exibe uma tela com a opção de inserção do catálogo por URL ou via PDF;
+<div align="Center">
+<img src="https://github.com/krikys1/Projeto-Integrador/assets/162705081/b06df19d-a99e-4742-94b4-e54b96760243" width="350px" />
+</div>
+<div align="Center">
+<img src="https://github.com/krikys1/Projeto-Integrador/assets/162705081/bfe3c3b9-9ac5-4be8-8902-48b8c157d141" width="350px" />
+</div>
+
+## Disponibilizar orçamento 
+
+Exibe uma tela para inserção do número do orçamento, a data e o documento referente por PDF;
+<div align="Center">
+<img src="https://github.com/krikys1/Projeto-Integrador/assets/162705081/21736128-9577-41aa-b32e-33b4f23b8153" width="350px" />
+</div>
+<div align="Center">
+<img src="https://github.com/krikys1/Projeto-Integrador/assets/162705081/23660d6c-e91b-4d5a-9db4-daeef748bc13" width="350px" />
+</div>
+
+## Agenda do fornecedor 
+
+Exibe todos os compromissos do fornecedor em relação ao centro universitário;
+<div align="Center">
+<img src="https://github.com/krikys1/Projeto-Integrador/assets/162705081/f2219207-7f4e-4b49-b99a-4949c84a73d9" width="350px" />
+</div>
+
+## Administrador
+
+Na tela de acesso do administrador, permitirá atualizar perfil, realizar matricula, consultar informações, agendar provas e visualizar a agenda.
+<div align="Center">
 <img src="" width="350px" />
 </div>
 <div align="Center">
 <img src="" width="350px" />
 </div>
 
-## Professor
-
-Na tela de acesso do professor permitirá que o usuário tenha acesso a possibilidade de atualizar o seu perfil, atribuir nota ao aluno e visualizar a sua escala de trabalho.
-
-
-## Atualizar perfil do professor 
-
-Na tela de atualização do perfil do professor será permitido ao usuario atualizar seu e-mail, senha e alterar seus dados cadastrais.
-
-
-## Atribuir nota 
-
-Essa tela permite a inserção das notas de produção textual, quiz, prova e média final;
-
-## Visualizar escala do professor 
-
-Essa tela permite que o professor visualize sua escala de trabalho com a sua grade de aulas e demais compromissos com a universidade.
-
-
-## Funcionário
-
-Essa tela permite ao colaborador ter acesso a atualizar seu perfil cadastrado e sua escala de trabalho.
-
-
-## Atualizar o perfil do funcionário
-
-Na tela de atualização do perfil do colaborador será permitido ao usuario atualizar seu e-mail, senha e alterar seus dados cadastrais.
-
-
-## Visualizar a escala do funcionário 
-
-Essa tela permite que o colaborador visualize sua escala de trabalho na universidade.
-
-
-## Fornecedor
-
-Essa tela permite ao colaborador ter acesso a atualizar seu perfil cadastrado, dsponibillizar o catalogo de produtos, realizar orçamentos e consultar a agenda.
-
-
-## Atualizar o perfil do fornecedor  
-
-Na tela de atualização do perfil do fornecedor será permitido ao usuário atualizar seu e-mail, senha e alterar seus dados cadastrais e empresariais;
-
-
-## Disponibilizar o catalogo 
-
-Exibe uma tela com a opção de inserção do catálogo por URL ou via PDF;
-
-
-## Disponibilizar orçamento 
-
-Exibe uma tela para inserção do número do orçamento, a data e o documento referente por PDF;
-
-
-## Agenda do fornecedor 
-
-Exibe todos os compromissos do fornecedor em relação ao centro universitário;
-
-
-## Administrador
-
-Na tela de acesso do administrador, permitirá atualizar perfil, realizar matricula, consultar informações, agendar provas e visualizar a agenda.
-
-
 ## Atualizar o perfil do administrador 
 
 Na tela de atualização do perfil do administrador será permitido ao usuário atualizar seu e-mail, senha e alterar seus dados cadastrais;
-
+<div align="Center">
+<img src="" width="350px" />
+</div>
+<div align="Center">
+<img src="https://github.com/krikys1/Projeto-Integrador/assets/162705081/4fd01411-0513-4d1f-a910-c09d2fe3422b" width="350px" />
+</div>
 
 ## Matricula 
 
 Número de controle pessoal.
-
+<div align="Center">
+<img src="" width="350px" />
+</div>
+<div align="Center">
+<img src="" width="350px" />
+</div>
 
 ## Consultar informações
 
 Exibe a tela onde é possível verificar alunos matriculados, parte financeira e seus respectivos relatórios;
+<div align="Center">
+<img src="" width="350px" />
+</div>
+<div align="Center">
+<img src="" width="350px" />
+</div>
 
 
 ## Agenda do administrador
 
 Exibe todos os compromissos do administrador com o centro universitário.
 
+<div align="Center">
+<img src="" width="350px" />
+</div>
+<div align="Center">
+<img src="" width="350px" />
+</div>
 
 ## Gerenciamento de dados 
 
 Exibe a tela onde é possível verificar relatório dos alunos matriculados.
-
+<div align="Center">
+<img src="" width="350px" />
+</div>
+<div align="Center">
+<img src="" width="350px" />
+</div>
 
 ## Gerenciamento de relatórios 
 
 Exibe a tela onde é possível verificar relatório da parte financeira.
 
-
+<div align="Center">
+<img src="" width="350px" />
+</div>
+<div align="Center">
+<img src="" width="350px" />
+</div>
 
 
 
