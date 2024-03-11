@@ -2,7 +2,7 @@
 Repositório destinado ao trabalho do Projeto Integrador do SENAC. O grupo contém 4 integrantes: 
 
 - Amanda Bonholi Barbosa
-- Cauê Cabral Rocha.
+- Cauê Cabral Rocha
 - Cristiano Batista da Costa
 - Leonardo de Oliveira Domingos
 
